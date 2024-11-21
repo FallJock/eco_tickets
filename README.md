@@ -24,6 +24,8 @@
 1. [Кредитно-денежная политика государства...](#ticket21)
 1. [Фискальная политика государства...](#ticket22)
 
+[Документ в docx онлайн](https://docs.google.com/document/d/1dKYLkjc3akS3rAODCksE7gxcGBNc9Y4-o8Y_uSZRAJw/edit?usp=sharing)
+
 <a name="ticket00"></a>
 # Краткая теория по графикам
 Буквенное обозначение:\
